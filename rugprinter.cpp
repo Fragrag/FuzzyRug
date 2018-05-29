@@ -33,7 +33,7 @@
 #include <QPen>
 #include <QBrush>
 #include <QDebug>
-#include <QProgressDialog>
+#include <QtWidgets/QProgressDialog>
 
 RugPrinter * RugPrinter::instance = 0;
 

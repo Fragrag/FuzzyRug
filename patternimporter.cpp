@@ -21,9 +21,9 @@
 
 #include "patternimporter.h"
 
-#include <QProgressDialog>
+#include <QtWidgets/QProgressDialog>
 #include <QDebug>
-#include <QInputDialog>
+#include <QtWidgets/QInputDialog>
 
 PatternImporter::PatternImporter(const QString& fn)
 {

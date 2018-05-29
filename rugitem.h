@@ -22,7 +22,7 @@
 #ifndef RUGITEM_H
 #define RUGITEM_H
 
-#include <QGraphicsObject>
+#include <QtWidgets/QGraphicsObject>
 #include <QSizeF>
 #include <QRectF>
 #include <QString>

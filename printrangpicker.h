@@ -22,7 +22,7 @@
 #ifndef PRINTRANGPICKER_H
 #define PRINTRANGPICKER_H
 
-#include <QDialog>
+#include <QtWidgets/QDialog>
 
 class RugItem;
 

@@ -22,9 +22,9 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QMainWindow>
+#include <QtWidgets/QMainWindow>
 #include <QMap>
-#include <QGraphicsScene>
+#include <QtWidgets/QGraphicsScene>
 
 class RugItem;
 

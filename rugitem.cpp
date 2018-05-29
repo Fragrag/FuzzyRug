@@ -26,9 +26,9 @@
 #include <QPen>
 #include <QDebug>
 #include <QCursor>
-#include <QGraphicsSceneMouseEvent>
-#include <QGraphicsScene>
-#include <QGraphicsView>
+#include <QtWidgets/QGraphicsSceneMouseEvent>
+#include <QtWidgets/QGraphicsScene>
+#include <QtWidgets/QGraphicsView>
 
 #include <cmath>
 

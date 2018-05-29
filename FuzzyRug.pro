@@ -4,14 +4,14 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core gui \
 
 TARGET = FuzzyRug
 TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp \
+    mainwindow.cpp \
     threadpattern.cpp \
     rugitem.cpp \
     threadpatterncollection.cpp \
